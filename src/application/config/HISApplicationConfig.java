@@ -11,7 +11,7 @@ import mms.hisglobal.utility.SaxHandler;
 
 public class HISApplicationConfig extends HISConfig {
 	private static Map<String, Object> mapURLWiseAllowedActionURIs;
-
+//git test
 	public boolean setApplictaionInitials(ServletContext objContext) {
 		boolean flg = true;
 		try {
